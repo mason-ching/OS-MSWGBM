@@ -1,4 +1,4 @@
-# OCS-TGBM
+# OS-MSWGBM
 
 ## Overview
 
@@ -22,7 +22,7 @@ personnel or organizations.
 
 ## Cite
 
-If you find this repository useful, please consider citing our paper by the following BibTeX entry.
+If you find this repository useful, please consider citing our paper with the following BibTeX entry.
 
 ```latex
 @article{os-mswgbm,
