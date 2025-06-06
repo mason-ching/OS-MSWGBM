@@ -38,4 +38,4 @@ If you find this repository useful, please consider citing our paper with the fo
 
 ## License
 
-This project is released under the [MIT license](LICENSE)
+This project is released under the [MIT License](LICENSE)
